@@ -1,5 +1,5 @@
 # 3D DetecTrack
-Pytorch implementation of the paperL
+Pytorch implementation of the paper
 * **Title**: Joint 3D object detection and tracking using spatio-temporal representation of camera image and LiDAR point clouds
 * **Author**: Junho Koh*, Jaekyum Kim*, Jinhyuk Yoo, Yecheol Kim, Jun Won Choi (* indicates equal contribution)
 * **Conference**: Accepted in the 36th AAAI Conference on Artificial Intelligence (AAAI), 2022.
